@@ -1,15 +1,9 @@
 # Inbound Management System (IMS) / ERP for Clinical Trials
 
-## Project Overview
-Developed a comprehensive Inbound Management System (IMS) and ERP for managing clinical trial participant recruitment projects in hospitals and pharmaceutical companies. The system includes various modules such as survey component builder, post-research-survey integration, inbound management, HR management, ad schedule management, and role-based access control.
-
+> **Case study.** This repository documents a production system I designed and built at work. The source code is proprietary and not published; this write-up covers the problem, the architecture, and the measured results.
 
 ## Project Overview
 Developed a comprehensive Inbound Management System (IMS) and ERP for managing clinical trial participant recruitment projects in hospitals and pharmaceutical companies. The system includes various modules such as survey component builder, post-research-survey integration, inbound management, HR management, ad schedule management, and role-based access control.
-
-## Project Overview
-Developed a comprehensive Inbound Management System (IMS) and ERP for managing clinical trial participant recruitment projects in hospitals and pharmaceutical companies. The system includes various modules such as survey component builder, post-research-survey integration, inbound management, HR management, ad schedule management, and role-based access control.
-
 
 <img width="1145" alt="image" src="https://github.com/user-attachments/assets/f7435a55-5c07-481e-8293-4c96c517efdf">
 
